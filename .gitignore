@@ -1,0 +1,10 @@
+theory/
+trunc/
+Data/
+*.~*
+*.dcu
+*.dof
+*.dcp
+*.exe
+*.obj
+*.rar
